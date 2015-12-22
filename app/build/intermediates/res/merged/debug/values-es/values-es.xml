@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reloj Atleti</string>
+    <string name="info_text">Esto es un widget, no una aplicación común. A diferencia de las aplicaciones comunes, los widgets han de colocarse en la pantalla de inicio seleccionándolos desde el cajón de widgets. Le deseamos que lo disfrute!!!</string>
+    <string name="widget_name">Widget reloj Atleti</string>
+</resources>

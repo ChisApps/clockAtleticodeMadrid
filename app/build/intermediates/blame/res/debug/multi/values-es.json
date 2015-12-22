@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\build\\intermediates\\res\\merged\\debug\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 252,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 252,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 59,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 59,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

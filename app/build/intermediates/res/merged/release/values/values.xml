@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AnalogClock" type="id">false</item>
+    <item name="Widget" type="id">false</item>
+    <string name="app_name">Analogic clock Atleti</string>
+    <string name="info_text">This is a widget, this isn´t regular application. The widgets are placed in the home screen by selecting directly from the widgets drawer. You don´t find the icon aplication in your app launcher. We hope you enjoy it!!!</string>
+    <string name="widget_name">Widget clock Atleti</string>
+</resources>

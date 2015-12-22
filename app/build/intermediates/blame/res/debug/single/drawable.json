@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preview_clock.png",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\drawable\\preview_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hour_atleti.png",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\drawable\\hour_atleti.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minute_atleti.png",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\drawable\\minute_atleti.png"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dial_atleti.png",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\clockAtleticodeMadrid\\app\\src\\main\\res\\drawable\\dial_atleti.png"
+    }
+]

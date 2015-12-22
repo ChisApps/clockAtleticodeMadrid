@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="dial_atleti" id="0x7f020000" />
+    <public type="drawable" name="hour_atleti" id="0x7f020001" />
+    <public type="drawable" name="preview_clock" id="0x7f020002" />
+    <public type="drawable" name="minute_atleti" id="0x7f020003" />
+    <public type="layout" name="info" id="0x7f030000" />
+    <public type="layout" name="widget" id="0x7f030001" />
+    <public type="xml" name="widget" id="0x7f040000" />
+    <public type="id" name="Widget" id="0x7f050000" />
+    <public type="id" name="AnalogClock" id="0x7f050001" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="widget_name" id="0x7f060001" />
+    <public type="string" name="info_text" id="0x7f060002" />
+</resources>
